@@ -1,7 +1,8 @@
 # Azure-SOC
 
 # Building a SOC + Honeynet in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Screen Shot 2025-01-09 at 3 10 26 PM](https://github.com/user-attachments/assets/85941390-0ed3-4427-b68c-4e04f43b0845)
+
 
 ## Introduction
 
@@ -19,10 +20,12 @@ AzureNetworkAnalytics_CL: Malicious network flows allowed into the honeynet
 
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Screen Shot 2025-01-09 at 3 11 37 PM](https://github.com/user-attachments/assets/07f895f5-6f36-4e4c-96c8-560c469dbe58)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Screen Shot 2025-01-09 at 3 12 35 PM](https://github.com/user-attachments/assets/ad9b4aa2-1b82-4846-a606-636cb6a6844b)
+
 
 The Azure-based mini honeynet is structured with the following key components:
 
